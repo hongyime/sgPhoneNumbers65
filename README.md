@@ -16,3 +16,7 @@ code to validate Singapore phone numbers and tell which telco owns them.
 3. CLick and run generatephonenumbers.py
 4. Place results in same folder as checkphonenumbers.py
 5. CLick and run checkphonenumbers.py
+
+## License
+
+Apache-2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
