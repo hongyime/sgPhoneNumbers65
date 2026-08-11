@@ -1,4 +1,9 @@
 # Singapore Phone Numbers
+
+Live demo: https://hongyime.github.io/sgPhoneNumbers65/
+
+![Project screenshot](./screenshot.png)
+
 code to validate Singapore phone numbers and tell which telco owns them.
 
 <p align="left">
